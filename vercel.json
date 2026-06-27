@@ -1,9 +1,8 @@
 
-{
-  "crons": [
+
+  
     {
-      "path": "/api/remind",
-      "schedule": "*/15 * * * *"
+      "version": 2
     }
-  ]
-}
+  
+
